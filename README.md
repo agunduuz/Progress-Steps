@@ -10,8 +10,6 @@ While developing the project, I utilized:
 
 In the project, we take steps with buttons. However, it's open to further development and limitless creativity. If you'd like to examine the code, you can click on the link below.
 
-For the live version, simply click here.
-
 See you in the next project!" 🚀🔧
 
 [Click here for the Live Version](https://progress-steps-chi.vercel.app/)
